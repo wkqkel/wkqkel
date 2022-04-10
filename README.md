@@ -13,6 +13,6 @@
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![Redux Badge](https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://ko.redux.js.org/)
 [![styled Badge](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
-[![styled Badge](http://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)
+<!-- [![styled Badge](http://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/) -->
 
 <br>
