@@ -1,9 +1,9 @@
+
 ## 💡 박상원 *Park Sang Won*
 
 - Front-End Developer.
 - I’m currently learning web Frontend skills.
-- I'm looking for a place where I can work as a Frontend developer.
-- Ask me about anything!
+
 
 <br>
 
@@ -18,3 +18,15 @@
 <!-- [![styled Badge](http://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/) -->
 
 <br>
+
+## ☁️ Experience
+
+- Hanghae99 5th, Web Frontend (2022.01~2022.04)
+- Wanted PreOnBoarding, Web Frontend (2022.05~2022.06)
+- Trineedle Frontend Developer (2022.08~)
+
+
+<div align="right">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wkqkel&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/wkqkel)
+</div>
