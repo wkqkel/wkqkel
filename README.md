@@ -23,7 +23,6 @@
 
 - Hanghae99 5th, Web Frontend (2022.01~2022.04)
 - Wanted PreOnBoarding, Web Frontend (2022.05~2022.06)
-- Trineedle Frontend Developer (2022.08~)
 
 
 <div align="right">
